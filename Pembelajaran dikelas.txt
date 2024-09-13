@@ -2,3 +2,4 @@ Pembelajaran sekarang adalah tantang Git dan GitHub dan pembuatan Website produk
 Website produk untuk ujikom yang di nilai oleh atasan tempat pkl
 Webite yang saya buat tentang Travel dan bahasa pemrograman yang saya gunakan adalah HTML dan CSS di aplikasi editor bernama VisualStudioCode atau di singkat VSCODE.
 Pkl di Alvaro Satya Nusa derada di Kota Tasikmalaya
+RPL adalah rekayasa perangkat lunak yang dimana kita harus bisa memahami suatu permasalahan pada program juga mampu menguasai skill bahasa pemrograman, dan bahkan pembelajaran ada 3 jenis yaitu Front-end, Back-end, dan Desain UI/UX
