@@ -2,4 +2,8 @@ Pembelajaran sekarang adalah tantang Git dan GitHub dan pembuatan Website produk
 Website produk untuk ujikom yang di nilai oleh atasan tempat pkl
 Webite yang saya buat tentang Travel dan bahasa pemrograman yang saya gunakan adalah HTML dan CSS di aplikasi editor bernama VisualStudioCode atau di singkat VSCODE.
 Pkl di Alvaro Satya Nusa derada di Kota Tasikmalaya
+di dalam RPl ada 3 jenis bagian yaitu Front-end, Back-end, dan Desain UI/UX.
+Bahasa yang digunakan Front-end adalah HTML, CSS, JavaSript, dan lain-lain, Back-end yaitu Python, PHP, Ruby, dan lain-lain, Untuk desain sendiri menggunakan Aplikasi editor baik Adobeilustrator, Photoshop, Figma dan lain-lain
+Biasanya sebelum membuat program seseorang akan memulai dari flowchart dan sleccing
+flowchart desebut permecahan masalah dari awal sampai akhir atau di sebut stukturnya permasalahan sedangkan sleccing di buat dalam bentuk gambar
 RPL adalah rekayasa perangkat lunak yang dimana kita harus bisa memahami suatu permasalahan pada program juga mampu menguasai skill bahasa pemrograman, dan bahkan pembelajaran ada 3 jenis yaitu Front-end, Back-end, dan Desain UI/UX
