@@ -1,2 +1,3 @@
 Pembelajaran sekarang adalah tantang Git dan GitHub dan pembuatan Website produk untuk Ujikom
 Website produk untuk ujikom yang di nilai oleh atasan tempat pkl
+Webite yang saya buat tentang Travel dan bahasa pemrograman yang saya gunakan adalah HTML dan CSS di aplikasi editor bernama VisualStudioCode atau di singkat VSCODE.
