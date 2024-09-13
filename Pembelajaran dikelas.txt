@@ -4,3 +4,4 @@ Webite yang saya buat tentang Travel dan bahasa pemrograman yang saya gunakan ad
 Pkl di Alvaro Satya Nusa derada di Kota Tasikmalaya
 di dalam RPl ada 3 jenis bagian yaitu Front-end, Back-end, dan Desain UI/UX.
 Bahasa yang digunakan Front-end adalah HTML, CSS, JavaSript, dan lain-lain, Back-end yaitu Python, PHP, Ruby, dan lain-lain, Untuk desain sendiri menggunakan Aplikasi editor baik Adobeilustrator, Photoshop, Figma dan lain-lain
+Biasanya sebelum membuat program seseorang akan memulai dari flowchart dan slecing
